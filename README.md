@@ -1,2 +1,3 @@
-# CS-102-Github-Tutorial-Spring-2022
-CS 102 Github Tutorial – Spring 2022, gitkraken etc.
+#### CS-102-Github-Tutorial-Spring-2022
+github, gitkraken, gitbash etc.
+# Test and demos;
